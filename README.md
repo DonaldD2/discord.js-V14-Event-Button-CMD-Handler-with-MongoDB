@@ -2,7 +2,7 @@
 
 Run the following once downloaded:
 
-npm i discord.js
-npm i
-npm i fs
+npm i discord.js | 
+npm i | 
+npm i fs | 
 npm i asci-table
